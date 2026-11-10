@@ -77,6 +77,13 @@ public class cidadeChuva {
     }
 
     static int[] criarDeslocamentoLinha(int ordem){
+        int[] coluna = {-1,0,1,0};
+        return coluna;
+    }
+
+    static boolean dentro(int i, int j, int n, int m){
+        
+    }
 
     }
 
